@@ -1,6 +1,6 @@
 # Proyecto final del bootcampo Soy Henry
 ### Cargamos archivos en formato ".csv" 
-### Realizamos su EDA y ETL en Python, utilizando Visual Studio Code.
+### Realizamos el EDA y ETL en Python, utilizando Visual Studio Code con la librería Pandas.
 ### Dejamos los notebooks listos para trabajar con SQL, en SQL Server.
 ![asfd](https://github.com/user-attachments/assets/1992d1e4-2aa0-4600-ab79-2126ee31c20b)
 ![adsf](https://github.com/user-attachments/assets/b61fb3e8-a9a8-41bf-9112-e635dc919514)
