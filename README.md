@@ -1,4 +1,4 @@
-# Proyecto final del bootcampo Soy Henry
+# Proyecto final del bootcamp Soy Henry
 
 ### En este proyecto trabajamos colaborativamente analizando diversos archivos .csv descargados de la página "Kaggle".
 ### El análisis está orientado a la temporada 2022-2023 de San Antonio Spurs donde en el último año se obtuvo la última posición de la tabla, y proponemos mejoras para revertir la situación del club.
